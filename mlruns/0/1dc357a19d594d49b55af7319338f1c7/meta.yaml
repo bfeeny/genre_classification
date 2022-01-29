@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bfeeny/Documents/Education/Udacity/Machine%20Learning%20DevOps%20Nanodegree/genre_classification/mlruns/0/1dc357a19d594d49b55af7319338f1c7/artifacts
+end_time: 1643487123358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1dc357a19d594d49b55af7319338f1c7
+run_uuid: 1dc357a19d594d49b55af7319338f1c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1643487100751
+status: 3
+tags: []
+user_id: bfeeny

@@ -1,0 +1,31 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2022-01-29T20:09:00.801851",
+    "startedAt": "2022-01-29T20:08:59.791747",
+    "docker": null,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "https://github.com/bfeeny/genre_classification.git",
+        "commit": "f0afeb522374bdf1524bd5419c8a1ebad36fc06c"
+    },
+    "email": "bfeeny@mac.com",
+    "root": "/Users/bfeeny/Documents/Education/Udacity/Machine Learning DevOps Nanodegree/genre_classification",
+    "host": "Brians-iMac.local",
+    "username": "bfeeny",
+    "executable": "/Users/bfeeny/opt/anaconda3/envs/mlflow-5b98147e5117ac6c30e85e2f0202eafb73da0cd7/bin/python"
+}

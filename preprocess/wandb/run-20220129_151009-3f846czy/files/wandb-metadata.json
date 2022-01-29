@@ -1,0 +1,31 @@
+{
+    "os": "macOS-11.6.2-x86_64-i386-64bit",
+    "python": "3.9.10",
+    "heartbeatAt": "2022-01-29T20:10:10.209925",
+    "startedAt": "2022-01-29T20:10:09.325794",
+    "docker": null,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "raw_data.parquet:latest",
+        "--artifact_name",
+        "preprocessed_data.csv",
+        "--artifact_type",
+        "preprocessed_data",
+        "--artifact_description",
+        "Data with preprocessing applied"
+    ],
+    "state": "running",
+    "program": "/Users/bfeeny/Documents/Education/Udacity/Machine Learning DevOps Nanodegree/genre_classification/preprocess/run.py",
+    "codePath": "preprocess/run.py",
+    "git": {
+        "remote": "https://github.com/bfeeny/genre_classification.git",
+        "commit": "f0afeb522374bdf1524bd5419c8a1ebad36fc06c"
+    },
+    "email": "bfeeny@mac.com",
+    "root": "/Users/bfeeny/Documents/Education/Udacity/Machine Learning DevOps Nanodegree/genre_classification",
+    "host": "Brians-iMac.local",
+    "username": "bfeeny",
+    "executable": "/Users/bfeeny/opt/anaconda3/envs/mlflow-484b576132a8d4f86bd93cd736b9c9cac218a14d/bin/python"
+}
